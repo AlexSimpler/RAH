@@ -9,7 +9,7 @@ Rah is a pixel **autoclick** python-made program. Made primarely for humanbenchm
 
 # New Features!
 
-  - Choose the **rgb** colors of your pixel then leave the mouse on it and it will trigger a click event on the color change
+  - Choose the **rgb** colors of your pixel then leave the mouse on it and it will trigger a click event on color change
   - Choose the clicking speed(not fully optimized yet)
 
 ### Installation
