@@ -1,4 +1,5 @@
 [![version](https://img.shields.io/badge/version-1.0-green)]()
+[![build](https://img.shields.io/badge/build-stable-orange)]()
 # RAH
 
 Rah is a pixel **autoclick** python-made program. Made primarely for humanbenchmark, it can be used on any screen.
