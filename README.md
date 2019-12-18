@@ -1,4 +1,4 @@
-[![version](https://img.shields.io/badge/version-1.0-green)]()
+[![](https://img.shields.io/badge/version-1.0-green)]()
 [![build](https://img.shields.io/badge/build-stable-orange)]()
 # RAH
 
