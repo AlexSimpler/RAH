@@ -5,7 +5,7 @@
 
 Rah is a pixel **autoclick** python-made program. Made primarely for humanbenchmark, it can be used on any screen.
 
-[![](https://imgur.com/W5Nkhfl)]()
+[![](https://imgur.com/a/QhRQNuP)]()
 
 # New Features!
 
