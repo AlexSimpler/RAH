@@ -30,3 +30,5 @@ License
 ----
 
 MIT
+
+Made with ❤️ by Alexis @2019.
