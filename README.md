@@ -11,7 +11,7 @@ Rah is a python-made pixel **autoclicker** program. Made primarely for humanbenc
 
   - Choose the **rgb** color to then trigger a click event when cursor is on the selected color.
   - Choose the clicking speed, *the close to 0 the faster it will be*(not fully optimized).
-  - Option to open an rgb website and to create a log.txt file in the download directory, *best used for debugging*.
+  - Option to open an rgb website and to create a log.txt file in the download directory, *best used for debugging, can slow down clicking time!*.
 
 ### Installation
 Before installing make sure you have the latest version of [python](https://www.python.org/downloads/) first.
