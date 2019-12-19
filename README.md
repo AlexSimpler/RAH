@@ -16,7 +16,7 @@
 ### Installation
 Before installing make sure you have the latest version of [python](https://www.python.org/downloads/) first.
 
-To then run it simply download the executable and launch it or run it *manually* with:
+To then run it simply download the executable in the **dist folder** and launch it or run it *manually* with:
 
 ```sh
 $ python app.py
