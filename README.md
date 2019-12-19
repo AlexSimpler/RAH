@@ -22,7 +22,7 @@ To then run it simply download the executable and launch it or run it *manually*
 $ python app.py
 ```
 ### Tips
-For fast clicking put a speed value of around `0.005-0.0005` and for best results disable `log.txt` file creation.
+For fast clicking put a speed value of around `0.005-0.0005` and for the best results disable `log.txt` file creation.
 
 ### Development
 
