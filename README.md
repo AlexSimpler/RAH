@@ -34,7 +34,8 @@ For fast clicking put a speed value of around `0.005-0.0005` and for the best re
 
 License
 ----
-
 MIT
 
+Credits
+----
 Made with ❤️ by Alexis @2019.
