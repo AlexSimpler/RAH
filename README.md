@@ -3,7 +3,7 @@
 
 # RAH
 
-Rah is a python-made pixel **autoclicker** program. Made primarely for humanbenchmark, it can be used on any screen.
+Rah is a python-made pixel **autoclicker** program. Made primarely for humanbenchmark, it can be used for any purpose.
 
 ![](https://i.imgur.com/W5Nkhfl_d.jpg?maxwidth=640&shape=thumb&fidelity=medium)
 
