@@ -9,8 +9,8 @@
 
 # New Features!
 
-  - Choose the **rgb** color to then trigger a click event when your cursor meets the selected color, **default is 99,219,100**.
-  - Choose the clicking speed ranging from 0 to 1, *the closer to 0, the faster the clicking will be* **default is 0.50**.
+  - Choose the **rgb** color to trigger a click event when your cursor meets the selected color(**default is 99,219,100**).
+  - Choose the clicking speed ranging from 0 to 1, *the closer to 0, the faster the clicking will be*(**default is 0.50**).
   - Option to open an rgb website and to create a log.txt file in the download directory, *best used for debugging, can slow down clicking time!*.
 
 ### Installation
