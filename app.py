@@ -29,8 +29,8 @@ def main():
     a = int(input("r: ") or 99)
     b = int(input("\ng: ") or 219)
     c = int(input("\nb: ") or 100)
-    speed = float(input("Please input your desired speed (0-1)") or 0.50)
-    log = (input("Do you want to generate a log.txt file for debugging purposes(y/n)?") or "n").lower()
+    speed = float(input("Please input your desired speed (0-1) ") or 0.50)
+    log = (input("Do you want to generate a log.txt file for debugging purposes(y/n)? ") or "n").lower()
     if len(log) == 1:
       if log == "y":
         logFile = 1
@@ -60,11 +60,11 @@ def main():
       pyautogui.click(x)
       if logFile:
         f = open("log.txt", "a")
-        f.write(("- clicked screen after %dms \n" % truncate(time.time() - begin, 6) * 1000))
+        f.write(("- clicked screen after %dms \n" % truncate((time.time() - begin) * 1000, 6)))
         time.sleep(1)
 
   except KeyboardInterrupt:
-    print ("Shutdown requested...exiting")
+    print ("exiting...")
 
 if __name__ == "__main__":
   main()
