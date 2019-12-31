@@ -38,4 +38,4 @@ MIT
 
 Credits
 ----
-Made with ❤️ by Alexis @2019.
+Made with ❤️ by Alexis in 2019.
