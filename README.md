@@ -1,5 +1,6 @@
 [![](https://img.shields.io/badge/version-1.0-green)]()
 [![](https://img.shields.io/badge/build-prototype-orange)]()
+[![](https://img.shields.io/badge/Download-release-blue)](https://github.com/AlexSimpler/RAH/releases)
 
 # RAH
 
