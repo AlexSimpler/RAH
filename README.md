@@ -17,10 +17,10 @@
 ## Installation
 *Before installing make sure you have the latest version of [python](https://www.python.org/downloads/) first.*
 
-#### Simple installation
+### Simple installation
 To run it simply download the executable in the **dist folder** and launch it.
 
-#### Advanced installation
+### Advanced installation
 Download this project and run app.py with this command inside the project directory.
 ```sh
 $ python app.py
