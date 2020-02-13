@@ -14,8 +14,8 @@
   - Choose the clicking speed ranging from 0 to 1, *the closer to 0, the faster the clicking will be* (**default is 0.50**).
   - Option to open an rgb website and to create a log.txt file in the download directory, *best used for debugging, can slow down clicking time!*.
 
-### Installation
-Before installing make sure you have the latest version of [python](https://www.python.org/downloads/) first.
+## Installation
+*Before installing make sure you have the latest version of [python](https://www.python.org/downloads/) first.*
 
 #### Simple installation
 To run it simply download the executable in the **dist folder** and launch it.
@@ -25,14 +25,14 @@ Download this project and run app.py with this command inside the project direct
 ```sh
 $ python app.py
 ```
-### Tips
+## Tips
 For fast clicking put a speed value of around `0.005-0.0005` and for the best results disable `log.txt` file creation.
 
-### Development
+## Development
 
 [Buy me a coffee](https://www.buymeacoffee.com/)
 
-### Todos
+## Todos
 
  - Fully optimize the program
 
